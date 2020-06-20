@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Diversify Digest"
+title = ""
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#1500d4"
-  gradient_end = "#00aad4"
+  # gradient_start = "#1500d4"
+  # gradient_end = "#00aad4"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -50,9 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Diversify Digest**!
-
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
-
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
+Our goal at Diversify is to provide resources for scientists who are learning and growing in their anti-racism. Our <a href = "publication">**Digest**</a> is a weekly curation of the latest research on diversity, equity, inclusion, and justice while our <a href = "posts">**Blog**</a> discusses the latest in anti-racism literature and highlights the voices of academics who are Black, Indigenous, and/or Womxn of Color (BIWOC).

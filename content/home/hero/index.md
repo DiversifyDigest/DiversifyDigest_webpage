@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to the Diversify Digest & Blog!"
+title = "Welcome"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "di_logo.png"
+hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -39,7 +39,10 @@ hero_media = "di_logo.png"
 
 +++
 
+To the Diversify Digest & Blog!
 
+{{< figure src="di_logo.png" align="left">}}
 
+Build **Anything** with Widgets
 
 
