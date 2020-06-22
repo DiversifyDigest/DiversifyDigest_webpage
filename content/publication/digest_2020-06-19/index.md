@@ -60,6 +60,8 @@ projects: []
 
 1. [Aggregation Bias: A Proposal To Raise Awareness Regarding Inclusion In Visual Analytics](https://link.springer.com/chapter/10.1007/978-3-030-45697-9_40) A Vázquez-Ingelmo, FJ García-Peñalvo, R Therón - World Conference on Information …, 2020
 
+{{% toc %}}
+
 ## Majority Gender
 
 1. [A Policy Paradox: Why Gender Equity Is Men's Work](https://www.tandfonline.com/doi/abs/10.1080/09589236.2020.1768363) CL Anicha, C Bilen-Green, R Green - Journal of Gender Studies, 2020
@@ -164,6 +166,8 @@ projects: []
 
 1. [A Longitudinal Test Of A Feminist Pathways Model Among Black Youth: Incorporating Racial Discrimination And School Difficulties](https://journals.sagepub.com/doi/abs/10.1177/1557085120923042) TE Sutton, LG Simons - Feminist Criminology, 2020
 
+{{% toc %}}
+
 ## Education
 
 1. [Introduction: The Gender Lens And Innovation In The Social Sciences](https://link.springer.com/chapter/10.1007/978-3-030-43236-2_1) F Jenkins, M Sawer, K Downing - How Gender Can Transform the Social Sciences, 2020
@@ -214,6 +218,8 @@ projects: []
 
 1. [Knowledge Gains In A Professional Development Workshop On Diversity, Equity, Inclusion, And Implicit Bias In Academia](https://journals.physiology.org/doi/pdf/10.1152/advan.00164.2019) LM Harrison-Bernard, AC Augustus-Wallace… - Advances in Physiology …, 2020
 
+{{% toc %}}
+
 ## Systems and Constructs
 
 1. [Beyond Equity As Inclusion: A Framework Of “Rightful Presence” For Guiding Justice-Oriented Studies In Teaching And Learning](https://journals.sagepub.com/doi/abs/10.3102/0013189X20927363) A Calabrese Barton, E Tan - Educational Researcher, 2020
@@ -241,6 +247,8 @@ projects: []
 1. [Mixed-Reality Simulations To Build Capacity For Advocating For Diversity, Equity, And Inclusion In The Geosciences.](https://psycnet.apa.org/doiLanding%3Fdoi%3D10.1037%252Fdhe0000190) JA Chen, MS Tutwiler, JFL Jackson - Journal of Diversity in Higher Education, 2020
 
 1. [Moving Toward Digital Equity In The Technopolis](https://link.springer.com/chapter/10.1007/978-3-030-39851-4_5) PE Resta - STEM in the Technopolis: The Power of STEM …, 2020
+
+{{% toc %}}
 
 ## Healthcare
 
@@ -284,4 +292,3 @@ projects: []
 
 1. [Racial Disparity In Postpartum Readmission Due To Hypertension Among Women With Pregnancy-Associated Hypertension](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1712530) R Chornock, SN Iqbal, T Kawakita - American Journal of Perinatology, 2020
 
-## Misc
