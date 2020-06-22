@@ -62,7 +62,7 @@ projects: []
 
 {{% toc %}}
 
-## Majority Gender
+## Women
 
 1. [A Policy Paradox: Why Gender Equity Is Men's Work](https://www.tandfonline.com/doi/abs/10.1080/09589236.2020.1768363) CL Anicha, C Bilen-Green, R Green - Journal of Gender Studies, 2020
 
