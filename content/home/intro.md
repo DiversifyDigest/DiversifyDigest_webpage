@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Our goal at Diversify is to provide resources for scientists who are learning and growing in their anti-racism. Our <a href = "publication">**Digest**</a> is a weekly curation of the latest research on diversity, equity, inclusion, and justice while our <a href = "posts">**Blog**</a> discusses the latest in anti-racism literature and highlights the voices of academics who are Black, Indigenous, and/or Women of Color (BIWOC).
+Our goal at Diversify is to provide resources for scientists who are learning and growing in their anti-racism. Our <a href = "publication">**Digest**</a> is a weekly curation of the latest research on diversity, equity, inclusion, and justice while our <a href = "post">**Blog**</a> discusses the latest in anti-racism literature and highlights the voices of academics who are Black, Indigenous, and/or Women of Color (BIWOC).
